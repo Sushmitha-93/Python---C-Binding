@@ -5,7 +5,7 @@
 <img src="https://github.com/Sushmitha-93/Python---C-Binding/blob/54e8a078878ccf1245310781285c4bc5aa431255/Execution%20time%20graph.png" />
 
 ## Testing Screenshots
-<img src="https://github.com/Sushmitha-93/Python---C-Binding/blob/7b02351ff4bab9149e19bb65a930c4d321fed4d7/program%20execution%20on%20visual%20studio%20screenshot.png">
+<img src="https://github.com/Sushmitha-93/Python---C-Binding/blob/7b02351ff4bab9149e19bb65a930c4d321fed4d7/program%20execution%20on%20visual%20studio%20screenshot.png"/>
 ### Test for matrix size n=10
 <img src="https://github.com/Sushmitha-93/Python---C-Binding/blob/54e8a078878ccf1245310781285c4bc5aa431255/size%2010.png" />
 ### Test for matrix size n=50
